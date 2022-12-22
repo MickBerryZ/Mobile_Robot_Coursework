@@ -1,0 +1,2 @@
+# Mobile_Robot_Coursework
+This is the final assignment, we implement by using vscode, it bases on Python to control simulator in CoppeliaSim (V-REP). The mission of assignment has 4 targets such finding the middle of the room, explore,  detect beacon, and come back to the base.  The achievement is how to control the speed of robot, turn left or right, how to use ultrasonic sensors and setting location.
